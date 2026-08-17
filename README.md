@@ -57,7 +57,7 @@ Exemplo da estrutura de uma tarefa:
 }
 ```
 
-## ▶️ Como executar
+## Como executar
 
 ### 1. Clone o repositório
 
